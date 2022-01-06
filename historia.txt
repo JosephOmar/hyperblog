@@ -4,4 +4,4 @@ esta es mi primera vez en git
 
 vamo a ver como va todo, ya hice mi primer commit
 
-Esta interesante el curso
+Esta interesante el curso, a seguir aprendiendo
